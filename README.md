@@ -1,3 +1,7 @@
 # Simple-Event-Category-Classifier
+2nd model of the Capstone Project
 
-This model only works using the **Bahasa Indonesia** language
+<br>
+
+Important:
+- This model only works using the **Bahasa Indonesia** language
